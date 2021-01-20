@@ -4,7 +4,7 @@
 
 # Graduate Rotational Internship Program
 
-This repository exclusively contains my submissions for TSF GRIP Tasks.
+This repository exclusively contains my submissions for TSF GRIP Tasks while working as a intern at [The Sparks Foundation.](https://www.thesparksfoundationsingapore.org/)
 
 # Business Analytics and Data Science Internship
 
