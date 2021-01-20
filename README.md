@@ -8,9 +8,9 @@ This repository exclusively contains my submissions for TSF GRIP Tasks.
 
 # Business Analytics and Data Science Internship
 
-# Duration : 1 month ( January 2021)
+- **Duration** : 1 month ( January 2021)
 
-# Type : Work from Home
+- **Type** : Work from Home
 
 Task 1 : Prediction using Supervised ML
 
