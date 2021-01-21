@@ -29,4 +29,4 @@ Task 7 : Stock Market Prediction using Numerical and Textual Analysis
 Task 8 : Timeline Analysis : Covid-19
 
 
-Link for video submission: 
+Link for video submission: https://www.youtube.com/playlist?list=PLXwIFfEJYjZ5a-jAZst7LtqBYFkDCIbco
