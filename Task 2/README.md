@@ -4,14 +4,14 @@
 
 Perform a prediction using unsupervised machine learning
 
-Programming Language used -
+**Programming Language used -**
 
 Python
 
-To Evaluate -
+**To Evaluate -**
 
 Predict the optimum number of clusters and represent it visually. 
 
-Dataset used -
+**Dataset used -**
 
 https://bit.ly/3kXTdox
